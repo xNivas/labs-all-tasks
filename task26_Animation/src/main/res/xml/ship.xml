@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="50dp"
+    android:width="50dp"
+    android:viewportHeight="100"
+    android:viewportWidth="100">
+
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M 80,80 L 90,100 80,120 z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M 79,80 L 69,100 79,120 z" />
+</vector>

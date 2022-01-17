@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:dither="true"
+    android:shape="oval" >
+
+    <gradient
+        android:endColor="#FFA200"
+        android:startColor="#FFE600"
+        android:gradientRadius="120"
+        android:type="radial"
+        android:useLevel="false" />
+
+    <size
+        android:height="100dp"
+        android:width="100dp" />
+
+</shape>

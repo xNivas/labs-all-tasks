@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/edycjaFragment"
+        android:icon="@drawable/ic_edycja"
+        android:title="Edycja" />
+
+    <item android:id="@+id/przegladanieFragment"
+        android:icon="@drawable/ic_przegladanie"
+        android:title="Przeglądanie" />
+
+</menu>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Pogoda" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/task10_ActivityListener" />
+            <option value="$PROJECT_DIR$/task11_ResValues" />
+            <option value="$PROJECT_DIR$/task12_LogAndMess" />
+            <option value="$PROJECT_DIR$/task13_MenuSimple" />
+            <option value="$PROJECT_DIR$/task14_MenuAdv" />
+            <option value="$PROJECT_DIR$/task15_ApplicationRetailStore" />
+            <option value="$PROJECT_DIR$/task16_ContextMenu" />
+            <option value="$PROJECT_DIR$/task17_SubMenu" />
+            <option value="$PROJECT_DIR$/task18_GroupMenu" />
+            <option value="$PROJECT_DIR$/task19_ProgramMenu" />
+            <option value="$PROJECT_DIR$/task20_PopupMenu" />
+            <option value="$PROJECT_DIR$/task21_ApplicationRetailStore" />
+            <option value="$PROJECT_DIR$/task22_Message" />
+            <option value="$PROJECT_DIR$/task23_SimpleAnimation" />
+            <option value="$PROJECT_DIR$/task24_ObjectAnimator" />
+            <option value="$PROJECT_DIR$/task25_LayoutAnimation" />
+            <option value="$PROJECT_DIR$/task26_Animation" />
+            <option value="$PROJECT_DIR$/task26_WlasnaAnimacja" />
+            <option value="$PROJECT_DIR$/task27_Navigation" />
+            <option value="$PROJECT_DIR$/task29_NavigationIntent" />
+            <option value="$PROJECT_DIR$/task2_FirstModule" />
+            <option value="$PROJECT_DIR$/task30_ReadIntent" />
+            <option value="$PROJECT_DIR$/task31_Preferences" />
+            <option value="$PROJECT_DIR$/task32_SimpleDB" />
+            <option value="$PROJECT_DIR$/task33_Restaurant" />
+            <option value="$PROJECT_DIR$/task34_SimpleDB2" />
+            <option value="$PROJECT_DIR$/task35_Query" />
+            <option value="$PROJECT_DIR$/task36_SQLiteInnerJoin" />
+            <option value="$PROJECT_DIR$/task37_SQLiteTransaction" />
+            <option value="$PROJECT_DIR$/task38_db" />
+            <option value="$PROJECT_DIR$/task3_BasicViews" />
+            <option value="$PROJECT_DIR$/task4_LayoutFiles" />
+            <option value="$PROJECT_DIR$/task5_Layouts" />
+            <option value="$PROJECT_DIR$/task6_LayoutProp" />
+            <option value="$PROJECT_DIR$/task7_ViewById" />
+            <option value="$PROJECT_DIR$/task8_OnClickButtons" />
+            <option value="$PROJECT_DIR$/task9_Listener" />
+            <option value="$PROJECT_DIR$/test_task_21" />
+            <option value="$PROJECT_DIR$/tictactoe" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

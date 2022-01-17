@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WlasnaAnimacja</string>
+
+    <string name="tytulSlajdu1">Truskawka</string>
+    <string name="tytulSlajdu2">Banan</string>
+    <string name="tytulSlajdu3">Jabłko</string>
+
+    <string name="trescSlajdu1">Poziomka truskawka – roślina mieszaniec dwóch gatunków poziomki z rodziny różowatych (Rosaceae Juss.). Ma wiele nazw zwyczajowych: poziomka ananasowa, poziomka wielkoowocowa, najczęściej jednak nazywana jest po prostu truskawką.</string>
+    <string name="trescSlajdu2">Banan – rodzaj roślin z rodziny bananowatych. W obrębie tego rodzaju znajduje się co najmniej 70 gatunków o nazwach zweryfikowanych i zaakceptowanych, podczas gdy kolejnych 5 taksonów ma status gatunków niepewnych (niezweryfikowanych). </string>
+    <string name="trescSlajdu3">Jabłko – jadalny, kulisty owoc drzew z rodzaju jabłoń Malus. Jabłka odmian uprawnych o mieszańcowym pochodzeniu, uznawanych za gatunek jabłoń domowa Malus domestica, są istotnym komercyjnie owocem o soczystym i chrupkim miąższu.</string>
+
+</resources>

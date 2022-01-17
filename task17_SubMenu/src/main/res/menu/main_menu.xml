@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_fruits"
+        android:title="Fruits">
+        <menu>
+            <item android:id="@+id/apple"
+                android:title="Apple" />
+            <item android:id="@+id/pea"
+                android:title="Pea" />
+            <item android:id="@+id/apricot"
+                android:title="Apricot" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_vegetables"
+        android:title="Vegetables">
+        <menu>
+            <item android:id="@+id/onion"
+                android:title="Onion" />
+            <item android:id="@+id/cabbage"
+                android:title="Cabbage" />
+            <item android:id="@+id/tomato"
+                android:title="Tomato" />
+        </menu>
+    </item>
+
+</menu>

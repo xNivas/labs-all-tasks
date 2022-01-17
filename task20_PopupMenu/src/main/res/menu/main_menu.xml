@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group_upper"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/milk"
+            android:title="Milk"></item>
+        <item
+            android:id="@+id/sugar"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="Sugar"></item>
+        <item
+            android:id="@+id/egg"
+            android:icon="@android:drawable/btn_star"
+            android:title="Egg"></item>
+    </group>
+
+    <group
+        android:id="@+id/group_lower"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/fruits"
+            android:title="Fruits">
+            <menu>
+                <group android:checkableBehavior="all">
+                    <item
+                        android:id="@+id/apple"
+                        android:icon="@mipmap/ic_launcher_round"
+                        android:title="Apple" />
+                    <item
+                        android:id="@+id/pea"
+                        android:icon="@mipmap/ic_launcher_round"
+                        android:title="Pea" />
+                    <item
+                        android:id="@+id/apricot"
+                        android:icon="@mipmap/ic_launcher_round"
+                        android:title="Apricot" />
+                </group>
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/vegetables"
+            android:title="Vegetables">
+            <menu>
+                <group android:checkableBehavior="all">
+                    <item
+                        android:id="@+id/onion"
+                        android:enabled="false"
+                        android:title="Onion" />
+                    <item
+                        android:id="@+id/cabbage"
+                        android:title="Cabbage" />
+                    <item
+                        android:id="@+id/tomato"
+                        android:title="Tomato" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>

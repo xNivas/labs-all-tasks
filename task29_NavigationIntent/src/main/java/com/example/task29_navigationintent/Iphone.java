@@ -1,0 +1,24 @@
+package com.example.task29_navigationintent;
+
+import android.os.Bundle;
+import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import java.sql.Date;
+import java.text.SimpleDateFormat;
+
+public class Iphone extends AppCompatActivity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.iphone);
+
+        SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy");
+        String date = sdf.format(new Date(System.currentTimeMillis()));
+
+        TextView tvDate = (TextView) findViewById(R.id.tvDate);
+        tvDate.setText(date);
+    }
+}
+

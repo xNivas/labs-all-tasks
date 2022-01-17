@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_fruits"
+        android:title="Fruits">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item
+                    android:id="@+id/jablka"
+                    android:onClick="onOptionsClick"
+                    android:title="Jabłka" />
+                <item android:id="@+id/banany"
+                    android:onClick="onOptionsClick"
+                    android:title="Banany" />
+                <item android:id="@+id/truskawki"
+                    android:onClick="onOptionsClick"
+                    android:title="Truskawki" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_vegetables"
+        android:title="Vegetables">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/brokul"
+                    android:onClick="onOptionsClick"
+                    android:title="Brokuł" />
+                <item android:id="@+id/czosnek"
+                    android:onClick="onOptionsClick"
+                    android:title="Czosnek" />
+                <item android:id="@+id/ziemniaki"
+                    android:onClick="onOptionsClick"
+                    android:title="Ziemniaki" />
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>

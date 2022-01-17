@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_chleb"
+        android:title="Chleb">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena_chleba"
+                    android:title="Cena"/>
+                <item android:id="@+id/waga_chleba"
+                    android:title="Waga"/>
+                <item android:id="@+id/pochodzenie_chleba"
+                    android:title="Pochodzenie"/>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_ciasta"
+
+        android:title="Ciasta">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena_ciasta"
+                    android:title="Cena"/>
+                <item android:id="@+id/waga_ciasta"
+                    android:title="Waga"/>
+                <item android:id="@+id/pochodzenie_ciasta"
+                    android:title="Pochodzenie"/>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_czekolada"
+        android:title="Czekolada">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena_czekolady"
+                    android:title="Cena"/>
+                <item android:id="@+id/waga_czekolady"
+                    android:title="Waga"/>
+                <item android:id="@+id/pochodzenie_czekolady"
+                    android:title="Pochodzenie"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
