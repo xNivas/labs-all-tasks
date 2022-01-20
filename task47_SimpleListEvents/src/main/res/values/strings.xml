@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleListChoice</string>
+    <string name="hello">Illness statistics</string>
+    <string-array name="names">
+        <item>Ted</item>
+        <item>Alissa</item>
+        <item>Peter</item>
+        <item>Anthony</item>
+        <item>Dana</item>
+        <item>Morris</item>
+        <item>Mike</item>
+        <item>Alan</item>
+        <item>Ben</item>
+        <item>Joe</item>
+        <item>Jack</item>
+        <item>Albert</item>
+        <item>Sarah</item>
+    </string-array>
+</resources>

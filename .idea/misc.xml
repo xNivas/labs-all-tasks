@@ -51,7 +51,7 @@
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task31_Preferences/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task32_SimpleDB/src/main/res/layout/activity_main.xml" value="0.30092592592592593" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task33_Restaurant/src/main/res/drawable/rounded_corner.xml" value="0.3828125" />
-        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task33_Restaurant/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task33_Restaurant/src/main/res/layout/activity_main.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task34_SimpleDB2/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/drawable-v24/left_button_shape.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/drawable-v24/right_button_shape.xml" value="0.2708333333333333" />
@@ -61,7 +61,7 @@
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/drawable/button_wyswietlbd_shape.xml" value="0.2064814814814815" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/drawable/button_zmodyfikuj_shape.xml" value="0.2064814814814815" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/drawable/rounded_corner.xml" value="0.2708333333333333" />
-        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/layout/activity_main.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/layout/fragment_edycja.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/layout/fragment_edycja2.xml" value="0.27239583333333334" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db/src/main/res/layout/fragment_przegladanie.xml" value="0.36666666666666664" />
@@ -77,10 +77,29 @@
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db_fragments_nav/src/main/res/layout/activity_main.xml" value="0.2351851851851852" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db_fragments_nav/src/main/res/layout/fragment1_layout.xml" value="0.2351851851851852" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task38_db_fragments_nav/src/main/res/layout/fragment2.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task39_SQLiteOnUpgradeDB/src/main/res/layout/activity_main.xml" value="0.2453125" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task3_BasicViews/src/main/res/layout/activity_main.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task40_SimpleList/src/main/res/layout/activity_main.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task40_SimpleList/src/main/res/layout/statistics_list_item.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task41_CustomSimpleAdapter/src/main/res/layout/item.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task42_CustomSimpleAdapter2/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task42_CustomSimpleAdapter2/src/main/res/layout/item.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task43_weather/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task43_weather/src/main/res/layout/item.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task44_SystemApplications/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task45_LayoutInflaterList/src/main/res/layout/item.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task46_SimpleListChoice/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task48_SimpleAdapter/src/main/res/layout/activity_main.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task48_SimpleAdapter/src/main/res/layout/item.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task49_EditSimpleAdapterData/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task49_EditSimpleAdapterData/src/main/res/layout/item.xml" value="0.2462962962962963" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task4_LayoutFiles/src/main/res/layout-land/myscreen.xml" value="0.1" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task4_LayoutFiles/src/main/res/layout/activity_main.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task4_LayoutFiles/src/main/res/layout/myscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task51_ExpandableList/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task52_ExpandableListView/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task53_CursorLoader/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task53_CursorLoader/src/main/res/layout/item.xml" value="0.2462962962962963" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task5_Layouts/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task5_Layouts/src/main/res/layout/rlayout.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/Adam/AndroidStudioProjects/Labs/task6_LayoutProp/src/main/res/layout/activity_main.xml" value="0.22" />

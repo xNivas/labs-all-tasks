@@ -51,12 +51,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                         ", mail = " + c.getString(mailColIndex) +
                         ", plec = " + c.getString(plecColIndex);
 
-//                if(textViewOutput.getText() == "") {
-//                    textViewOutput.setText(nowaLinia);
-//                }
-//                else {
-                    textViewOutput.append(nowaLinia + "\n\n");
-//                }
+                textViewOutput.append(nowaLinia + "\n\n");
 
                 Log.d(TAG, nowaLinia);
             } while (c.moveToNext());
@@ -117,7 +112,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
 
 
         Log.d(TAG,
-                "--- --- --- pobrano id imie nazwisko etc --- --- --- \n nazwisko: "
+                "--- --- --- pobrano id imie nazwisko miasto mail plec z pol edittext i radiogroup --- --- --- \n nazwisko: "
                         + nazwisko);
 
         int zaznaczonaPlec = rgPlec.getCheckedRadioButtonId();
